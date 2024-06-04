@@ -9,11 +9,13 @@ To use the DaxMedia Prettier configuration in your project, follow these steps:
 1. Install Prettier as a dev dependency in your project:
 
 ```bash
-npm install -D @dxmd/prettier-config
+npm i -D @dxmd/prettier-config
 ```
-
 ```bash
-pnpm install -D @dxmd/prettier-config
+pnpm i -D @dxmd/prettier-config
+```
+```bash
+yarn add --dev @dxmd/prettier-config
 ```
 
 2. Insert the following into the root package.json configuration:
