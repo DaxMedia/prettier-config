@@ -20,6 +20,6 @@ pnpm install -D @dxmd/prettier-config
 
 ```json
 {
-	"prettier": "@company/prettier-config"
+	"prettier": "@dxmd/prettier-config"
 }
 ```
