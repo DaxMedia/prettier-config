@@ -20,8 +20,11 @@ yarn add --dev @dxmd/prettier-config
 
 2. Insert the following into the root package.json configuration:
 
+`package.json`
 ```json
 {
+	...
 	"prettier": "@dxmd/prettier-config"
+	...
 }
 ```
