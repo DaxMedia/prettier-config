@@ -22,9 +22,5 @@ yarn add --dev @dxmd/prettier-config
 
 `package.json`
 ```json
-{
-	...
-	"prettier": "@dxmd/prettier-config"
-	...
-}
+"prettier": "@dxmd/prettier-config"
 ```
