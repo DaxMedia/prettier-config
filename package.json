@@ -2,7 +2,7 @@
 	"name": "@dxmd/prettier-config",
 	"version": "1.0.3",
 	"description": "Prettier Config of DaxMedia",
-	"main": "index.json",
+	"main": "index.mjs",
 	"license": "MIT",
 	"keywords": [
 		"prettier",
