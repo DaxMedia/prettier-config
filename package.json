@@ -12,5 +12,8 @@
 		"type": "git",
 		"url": "git+https://github.com/DaxMedia/prettier-config.git"
 	},
-	"homepage": "https://github.com/DaxMedia/prettier-config"
+	"homepage": "https://github.com/DaxMedia/prettier-config",
+	"devDependencies": {
+		"prettier": "^3.6.2"
+	}
 }
